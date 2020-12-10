@@ -32,5 +32,5 @@ jobs:
           file: ./Dockerfile-1.13-alpine
           push: true
           tags: |
-            thesoulless/golang-alpine:1.13
             ghcr.io/thesoulless/golang-alpine:1.13
+            thesoulless/golang-alpine:1.13
