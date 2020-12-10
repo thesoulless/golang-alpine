@@ -1,0 +1,3 @@
+FROM golang:1.13-alpine
+
+apk add --update build-base
